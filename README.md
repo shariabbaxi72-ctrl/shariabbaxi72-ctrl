@@ -18,25 +18,13 @@
 ---
 
 ## 👨‍💻 About Me
+I'm Musharraf Abbasi, a Flutter developer with 2 years of professional experience building cross-platform mobile applications for iOS and Android.
+I spent those 2 years at Morosoft, where I worked on both solo projects and team collaborations. That experience taught me how to take ownership of a project, write code that others can actually work with, and deliver things that hold up under real usage — not just in development.
+My core stack is Flutter and Dart, but I don't stop there. I integrate Firebase backends, connect REST APIs, work with Hive for local storage, and handle the full picture — from architecture decisions to UI polish. I've also worked with Java, C#, and HTML/CSS when the project needed it.
+What drives me is pretty simple — I want the apps I build to actually feel good to use. Not just functional, but smooth, fast, and thoughtful. That's the standard I hold myself to.
+Right now I'm taking on freelance projects through Upwork. If you have something that needs to be built properly, I'm straightforward to work with, honest about timelines, and I stay reachable until the job is done.
 
-```dart
-class MusharrafAbbasi extends FlutterDeveloper {
-  
-  final String name        = "Musharraf Abbasi";
-  final String role        = "Flutter Developer | Backend Integrator";
-  final int    experience  = 3; // years
-  final String location    = "Pakistan 🇵🇰";
-  final String previousJob = "Microsoft — Flutter Developer";
 
-  List<String> get passion => [
-    "Building apps people actually enjoy using",
-    "Clean architecture that scales",
-    "Solving real problems with mobile tech",
-  ];
-
-  String get currentFocus => "Open to Freelance Projects on Upwork 🚀";
-}
-```
 
 ---
 
@@ -98,8 +86,8 @@ class MusharrafAbbasi extends FlutterDeveloper {
 ## 💼 Work Experience
 
 ```
-🏢 Microsoft                          Flutter Developer
-   2021 — 2024  |  3 Years
+🏢 Morosoft                          Flutter Developer
+   2022 — 2024  |  2 Years
    ├── Cross-platform iOS & Android app development
    ├── Solo & team-based project delivery
    ├── Firebase, REST APIs, State Management
