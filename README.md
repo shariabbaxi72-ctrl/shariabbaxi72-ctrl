@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%9A%80;Firebase+%7C+Hive+%7C+REST+API+Expert;Cross-Platform+iOS+%26+Android+Apps;3%2B+Years+of+Real+World+Experience;ex-Microsoft+Developer+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%9A%80;Firebase+%7C+Hive+%7C+REST+API+Expert;Cross-Platform+iOS+%26+Android+Apps;2%2B+Years+of+Real+World+Experience;ex-Morosoft+Developer+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,13 +18,16 @@
 ---
 
 ## 👨‍💻 About Me
+
 I'm Musharraf Abbasi, a Flutter developer with 2 years of professional experience building cross-platform mobile applications for iOS and Android.
+
 I spent those 2 years at Morosoft, where I worked on both solo projects and team collaborations. That experience taught me how to take ownership of a project, write code that others can actually work with, and deliver things that hold up under real usage — not just in development.
+
 My core stack is Flutter and Dart, but I don't stop there. I integrate Firebase backends, connect REST APIs, work with Hive for local storage, and handle the full picture — from architecture decisions to UI polish. I've also worked with Java, C#, and HTML/CSS when the project needed it.
+
 What drives me is pretty simple — I want the apps I build to actually feel good to use. Not just functional, but smooth, fast, and thoughtful. That's the standard I hold myself to.
+
 Right now I'm taking on freelance projects through Upwork. If you have something that needs to be built properly, I'm straightforward to work with, honest about timelines, and I stay reachable until the job is done.
-
-
 
 ---
 
